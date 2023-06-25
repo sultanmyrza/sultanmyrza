@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working as a Freelancer
 - 👨‍🎓 I'm practicing [leetcode](https://leetcode.com/sultanmyrza/) from time to time.
 - 🌱 I’m currently maintaining CapacitorJS Plugin [preview-camera](https://github.com/sultanmyrza/preview-camera).
