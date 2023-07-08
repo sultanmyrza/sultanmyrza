@@ -1,14 +1,18 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Freelancer.
-- 👨‍🎓 I'm doing [leetcode](https://leetcode.com/sultanmyrza/) and [stackoverflow](https://stackoverflow.com/users/6133329/sultanmyrza) from time to time.
-- 🌱 I’m currently maintaining CapacitorJS Plugin [preview-camera](https://github.com/sultanmyrza/preview-camera).
+- 🔭 Currently working as a Freelancer.
+- 🌱 Maintaining CapacitorJS Plugin [preview-camera](https://github.com/sultanmyrza/preview-camera) used by [capture-app](https://www.numbersprotocol.io/#products).
+- 🔁 Reimplementing [preview-camera](https://github.com/sultanmyrza/preview-camera) as [preview-camera-light](https://github.com/sultanmyrza/preview-camera-light).
 - 💬 Ask me about [CapacitorJS](https://capacitorjs.com/), [Ionic](https://ionicframework.com/) projects or Cross-Platform Development.
+- 👨‍🎓 From time to time I visit [leetcode](https://leetcode.com/sultanmyrza/) and [stackoverflow](https://stackoverflow.com/users/6133329/sultanmyrza).
 - ⚡ Fun fact: I sometimes build Web Apps for my iPhone 3gs
+
+> Story Time: The [preview-camera](https://github.com/sultanmyrza/preview-camera) plugin was initially developed for the [Capture App](https://www.numbersprotocol.io/#products) as part of the Numbers Protocol product suite. With the knowledge gained from plugin development, error correction, and user feedback received from the production app, the plugin is being re-implemented as [preview-camera-light](https://github.com/sultanmyrza/preview-camera-light). The goal is to deliver an enhanced experience to users. Eventually, [preview-camera-light](https://github.com/sultanmyrza/preview-camera-light) will be a comprehensive plugin that provides native camera functionality for Ionic apps on iOS, Android, and Web platforms. It will enable users to capture photos, videos, and display a camera preview while seamlessly respecting Ionic UI components.
 
 ### Open Source Projects
 
-[![Bloc](https://github-readme-stats.vercel.app/api/pin/?username=sultanmyrza&repo=preview-camera)](https://github.com/sultanmyrza/preview-camera)
+[![preview-camera](https://github-readme-stats.vercel.app/api/pin/?username=sultanmyrza&repo=preview-camera)](https://github.com/sultanmyrza/preview-camera)
+[![preview-camera-light](https://github-readme-stats.vercel.app/api/pin/?username=sultanmyrza&repo=preview-camera-light)](https://github.com/sultanmyrza/preview-camera-light)
 
 ### Github Stats
 
